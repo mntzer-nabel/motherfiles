@@ -1,5 +1,5 @@
-<h1 align="center"><b>🇮🇶 سـورس جـيبثون  </b></h1>
-<h4 align="center">🧸♥ مـرحبا بـك في سـورس جـيبثون</h4>
+<h1 align="center"><b>🇮🇶 «سـورس جـيبثون «المعدل</b></h1>
+<h4 align="center">🧸♥ مـرحبا بـك في سـورس جـيبثون المعدل</h4>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjepthoniq%2Fjepthon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/JepThon-AR/JM-THON)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/jepthoniq/jepthon/graphs/commit-activity) 
@@ -16,3 +16,5 @@
 ## الـقـناة ##
    <a href="https://t.me/JepThon"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
  - 
+##حساب المعدل##
+[here!](https://t.me/XLL53X)
