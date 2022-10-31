@@ -16,5 +16,5 @@
 ## الـقـناة ##
    <a href="https://t.me/JepThon"><img src="https://img.shields.io/badge/Source%20Dev%3F-here-inactive?&style=plastic?&logo=telegram" width=220px></a></p>
  - 
-##حساب المعدل##
+حساب المعدل ⬅️
 [here!](https://t.me/XLL53X)
